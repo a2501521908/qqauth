@@ -1,0 +1,9 @@
+cn\keshaowl\page\login\utils\QQAuthUtils.class
+cn\keshaowl\page\login\action\DoQLoginServlet.class
+cn\keshaowl\page\login\utils\HttpsUtil$DefaultTrustManager.class
+cn\keshaowl\page\login\utils\JsonUtil.class
+cn\keshaowl\page\login\utils\HttpsUtil$1.class
+cn\keshaowl\page\login\utils\HttpsUtil$TrustAnyHostnameVerifier.class
+cn\keshaowl\page\login\utils\MyX509TrustManager.class
+cn\keshaowl\page\login\action\SendQLoginServlet.class
+cn\keshaowl\page\login\utils\HttpsUtil.class
